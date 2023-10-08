@@ -20,7 +20,7 @@ class _RegistrationScreenDetailsState
   DateTime? _dob;
   String? _gender;
   bool _obscureText = true;
-
+//
   @override
   Widget build(BuildContext context) {
     return Scaffold(
